@@ -1,0 +1,22 @@
+[{
+    "titulo": "Hacer Calculadora",
+    "estado": "terminada"
+}, {
+    "titulo": "Estudio",
+    "estado": "en progreso"
+}, {
+    "titulo": "app de notas",
+    "estado": "pendiente"
+}, {
+    "titulo": "Hacer-poema",
+    "estado": "pendiente"
+}, {
+    "titulo": "Tarea Quimica",
+    "estado": "pendiente"
+}, {
+    "titulo": "Pintar pared",
+    "estado": "en progreso"
+}, {
+    "titulo": "Subir Tps",
+    "estado": "en progreso"
+}]
